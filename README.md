@@ -1,6 +1,6 @@
-# UniversityApp
+# looseUniversity
 
-**UniversityApp** será una aplicación diseñada para ayudar a los universitarios a mantener un control efectivo sobre sus materias y tareas, evitando así la falta de entrega de tareas y mejorando su rendimiento académico.
+**looseUNiversity** será una aplicación diseñada para ayudar a los universitarios a mantener un control efectivo sobre sus materias y tareas, evitando así la falta de entrega de tareas y mejorando su rendimiento académico.
 
 ## Descripción General
 
@@ -10,4 +10,4 @@
 
 ## Open Source y Licencia
 
-**UniversityApp** será un proyecto de código abierto, disponible para todos bajo la **Licencia Pública General de GNU, versión 3 (GPLv3)**. Esto garantiza que el software permanecerá libre y de código abierto. Cualquier persona puede usar, modificar y distribuir el software, siempre y cuando cualquier trabajo derivado sea también distribuido bajo los mismos términos de la GPLv3.
+**looseUNiversity** será un proyecto de código abierto, disponible para todos bajo la **Licencia Pública General de GNU, versión 3 (GPLv3)**. Esto garantiza que el software permanecerá libre y de código abierto. Cualquier persona puede usar, modificar y distribuir el software, siempre y cuando cualquier trabajo derivado sea también distribuido bajo los mismos términos de la GPLv3.
